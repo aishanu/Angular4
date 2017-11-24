@@ -4,4 +4,6 @@ Steps to run app
 
 2. Open angular-tutorial folder in visual studio code
 
-3. Run project using command ng serve --open
+3. Open terminal run npm install to install node_modules 
+
+4. Run project using command ng serve --open
